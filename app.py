@@ -693,7 +693,7 @@ def solve_lineups_exact(expanded, settings):
 # STREAMLIT GUI
 # =========================================================
 st.set_page_config(page_title="Enhanced Lineup Generator", layout="wide")
-st.title("Enhanced Lineup Uniqueness Generator")
+st.title("FPPG Lineup Generator")
 st.caption("Upload your main players CSV, pre-game players CSV (used for FPPG), and optionally a Draftstars batch-edit CSV.")
 
 with st.sidebar:
